@@ -7,9 +7,6 @@ This is a simple React web application for managing a list of healthcare service
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Running the Application](#running-the-application)
-- [Deployment](#deployment)
-- [License](#license)
 
 ## Features
 
